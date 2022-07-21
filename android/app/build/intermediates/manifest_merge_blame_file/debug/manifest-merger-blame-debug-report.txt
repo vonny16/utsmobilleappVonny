@@ -1,0 +1,132 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.reduxapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="31" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->[com.facebook.flipper:flipper:0.125.0] /Users/abiamarulloh/.gradle/caches/transforms-3/2684e596efad9cc8f9827ec319d3b225/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
+13-->[com.facebook.flipper:flipper:0.125.0] /Users/abiamarulloh/.gradle/caches/transforms-3/2684e596efad9cc8f9827ec319d3b225/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->[:expo-updates] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-updates/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-79
+14-->[:expo-updates] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-updates/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-76
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->[:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-81
+15-->[:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-78
+16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+16-->[:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:5-80
+16-->[:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:22-77
+17
+18    <queries>
+18-->[:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:5-20:15
+19
+20        <!-- Query open documents -->
+21        <intent>
+21-->[:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:9-19:18
+22            <action android:name="android.intent.action.OPEN_DOCUMENT_TREE" />
+22-->[:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-79
+22-->[:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:21-76
+23        </intent>
+24    </queries>
+25
+26    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+26-->[com.android.installreferrer:installreferrer:1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/7ee584f7199fcf7c173d84c0885cc23a/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:5-110
+26-->[com.android.installreferrer:installreferrer:1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/7ee584f7199fcf7c173d84c0885cc23a/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:22-107
+27
+28    <application
+28-->/Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:6:5-25:19
+29        android:name="com.reduxapp.MainApplication"
+29-->/Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:7:7-38
+30        android:allowBackup="false"
+30-->/Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:11:7-34
+31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+31-->[androidx.core:core:1.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/19154d755f5105d317997b390cdca45b/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+32        android:debuggable="true"
+33        android:icon="@mipmap/ic_launcher"
+33-->/Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:9:7-41
+34        android:label="@string/app_name"
+34-->/Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:8:7-39
+35        android:roundIcon="@mipmap/ic_launcher_round"
+35-->/Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:10:7-52
+36        android:theme="@style/AppTheme"
+36-->/Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:12:7-38
+37        android:usesCleartextTraffic="true" >
+37-->/Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/debug/AndroidManifest.xml:8:9-44
+38        <activity
+38-->/Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/debug/AndroidManifest.xml:11:9-111
+39            android:name="com.facebook.react.devsupport.DevSettingsActivity"
+39-->/Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/debug/AndroidManifest.xml:11:19-83
+40            android:exported="false" />
+40-->/Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/debug/AndroidManifest.xml:11:84-108
+41        <activity
+41-->/Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:13:7-24:18
+42            android:name="com.reduxapp.MainActivity"
+42-->/Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:14:9-37
+43            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+43-->/Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:16:9-118
+44            android:exported="true"
+44-->/Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:19:9-32
+45            android:label="@string/app_name"
+45-->/Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:15:9-41
+46            android:launchMode="singleTask"
+46-->/Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:17:9-40
+47            android:windowSoftInputMode="adjustResize" >
+47-->/Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:18:9-51
+48            <intent-filter>
+48-->/Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:20:9-23:25
+49                <action android:name="android.intent.action.MAIN" />
+49-->/Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:21:13-65
+49-->/Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:21:21-62
+50
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->/Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:22:13-73
+51-->/Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:22:23-70
+52            </intent-filter>
+53        </activity>
+54
+55        <provider
+55-->[:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:9-32:20
+56            android:name="expo.modules.filesystem.FileSystemFileProvider"
+56-->[:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-74
+57            android:authorities="com.reduxapp.FileSystemFileProvider"
+57-->[:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:13-74
+58            android:exported="false"
+58-->[:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:13-37
+59            android:grantUriPermissions="true" >
+59-->[:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-47
+60            <meta-data
+60-->[:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-31:70
+61                android:name="android.support.FILE_PROVIDER_PATHS"
+61-->[:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:30:17-67
+62                android:resource="@xml/file_system_provider_paths" />
+62-->[:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:31:17-67
+63        </provider>
+64
+65        <meta-data
+65-->[:expo-modules-core] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-12:89
+66            android:name="org.unimodules.core.AppLoader#react-native-headless"
+66-->[:expo-modules-core] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-79
+67            android:value="expo.modules.adapters.react.apploader.RNHeadlessAppLoader" />
+67-->[:expo-modules-core] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-86
+68
+69        <service
+69-->[androidx.room:room-runtime:2.4.2] /Users/abiamarulloh/.gradle/caches/transforms-3/1a26ce9aa67437830692451303459502/transformed/room-runtime-2.4.2/AndroidManifest.xml:25:9-28:40
+70            android:name="androidx.room.MultiInstanceInvalidationService"
+70-->[androidx.room:room-runtime:2.4.2] /Users/abiamarulloh/.gradle/caches/transforms-3/1a26ce9aa67437830692451303459502/transformed/room-runtime-2.4.2/AndroidManifest.xml:26:13-74
+71            android:directBootAware="true"
+71-->[androidx.room:room-runtime:2.4.2] /Users/abiamarulloh/.gradle/caches/transforms-3/1a26ce9aa67437830692451303459502/transformed/room-runtime-2.4.2/AndroidManifest.xml:27:13-43
+72            android:exported="false" />
+72-->[androidx.room:room-runtime:2.4.2] /Users/abiamarulloh/.gradle/caches/transforms-3/1a26ce9aa67437830692451303459502/transformed/room-runtime-2.4.2/AndroidManifest.xml:28:13-37
+73    </application>
+74
+75</manifest>

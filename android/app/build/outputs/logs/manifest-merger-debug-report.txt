@@ -1,0 +1,453 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/abiamarulloh/.gradle/caches/transforms-3/2684e596efad9cc8f9827ec319d3b225/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/abiamarulloh/.gradle/caches/transforms-3/aab8def1b1b18d2a733bfdac85642851/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/abiamarulloh/.gradle/caches/transforms-3/2d3c34dac3b103da42de785587616043/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-masked-view_masked-view] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/@react-native-masked-view/masked-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:expo] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-safe-area-context] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:expo-application] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-application/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:expo-constants] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-constants/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:expo-updates] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-updates/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-eas-client] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-eas-client/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:expo-error-recovery] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-error-recovery/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-35:12
+MERGED from [:expo-font] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-font/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:expo-keep-awake] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-keep-awake/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:expo-modules-core] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [com.facebook.react:react-native:0.68.2] /Users/abiamarulloh/.gradle/caches/transforms-3/24cd5fd027c46bc03bb245cae712fd6b/transformed/jetified-react-native-0.68.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/65b897271fd0046515afb974faf95040/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/0b47447b0847488c70d49e6a958690e4/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/8fee5c244deee2c31466ae0b8ddd134a/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r250230] /Users/abiamarulloh/.gradle/caches/transforms-3/1cfd1051e1fe6dcb6c4adf5d6a4e2066/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/react-native-reanimated/android/build/.transforms/e0fd2e21f7e51198df1036bd26872381/transformed/jetified-react-native-reanimated-68-jsc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/2c07d5723d546c898272cb3c278713a6/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/ac6d4978f5d9543bb1fc1debecea1dd0/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/bd68021cc0417e12ff90be83dd9ac2dc/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/7a94fe55ff57afa3d1faac6519c49e19/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/abiamarulloh/.gradle/caches/transforms-3/5fb96044047bd78bad711127c6052889/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/f508254b7bcca1ca3de08b83f68f2fe1/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/8182a7b93be245f52773088a43d4842d/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/1fd0e1f4fd8e31c8bcc34c817bc8aa9b/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/7c336aecaeb4bc8a19044c36d3aeaa5d/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/0c3ff7eb95d79f212e1e50ed48779276/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/abiamarulloh/.gradle/caches/transforms-3/5a6c0d3c72f5fc830c258a7bc8785cf6/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/9e703eebd815f484b6200348d75ef414/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/6e86119b20885733e18d998b8e06a69a/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/8e8026ff74f26f813ddc11a9f55db0ca/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/4805685529a3c9b9016a5c52847b671a/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [:expo-structured-headers] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-structured-headers/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/6db4634c87fcdb9582201d04ec4c4546/transformed/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/abiamarulloh/.gradle/caches/transforms-3/8c83eeed436f1237a223ab73bf0b1dfc/transformed/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.4.2] /Users/abiamarulloh/.gradle/caches/transforms-3/1a26ce9aa67437830692451303459502/transformed/room-runtime-2.4.2/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /Users/abiamarulloh/.gradle/caches/transforms-3/35141156d1f148c240a52764043cc8ab/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/f2d2419e40a17d151ba4d882c597e887/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/8575840cc21c4297a99db65c59f9d637/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/6eb12a458623e59b3b2c8565321db86b/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/abiamarulloh/.gradle/caches/transforms-3/67b325fc3792e3055ab62e09cded431b/transformed/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/8b4b34e99eac5b45a8012460b46b560d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/969fd25aed478969e077398459f16fc6/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/49bb89a6f9269e9654d2f23512b6a255/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/a08d3a7f794f079a4a7824d73e6b50cd/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/134ef1893fac49e0605e88d541286c8e/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/abiamarulloh/.gradle/caches/transforms-3/5b2f02c135d59a624d1d6aab9d9c1ab4/transformed/fragment-1.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/6f32b51d5ec336e97b91cb9bbd1a9795/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.2.3] /Users/abiamarulloh/.gradle/caches/transforms-3/fc36c76546d565e4350f5afef39c2c80/transformed/jetified-activity-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/008b77477538262c1ca619808f32b732/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/abiamarulloh/.gradle/caches/transforms-3/4a7ecb343a790aae52f3840b168825fe/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/f006a8ceb6a9aa9cca69c8b4b44b6c76/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/773143d68b5f8eaf39600ad3037c5c7c/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/6447d427f003d53bf1ad3a37be449239/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/e4f53d7ec0f2b8d7fa1afe0a8891baef/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/3b4ae4ad1a822caad1b28895caaa1be3/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/abiamarulloh/.gradle/caches/transforms-3/1f370a7bc7606a382637d9aec5304eac/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/8e5f6e4d85b99019b20fc7f4241ec5a8/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/cd069552264104ae2f6f2a077ae91240/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/c873eb8429baabbea79c078f8e318afc/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/5bb0a0959e40b159d82fb6f5df2e0cc5/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/9663488c6aedf3c8f0e72a7e0a25efd5/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/19154d755f5105d317997b390cdca45b/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/abiamarulloh/.gradle/caches/transforms-3/9ac84ca1d4d8731db19639c0e0f34a9b/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/abiamarulloh/.gradle/caches/transforms-3/bddf38fa519c8b5fe2e7fc585b0cd8bb/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/ab8f966bcca328c75c026801b759a588/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/abiamarulloh/.gradle/caches/transforms-3/544ec4b814a4e1fe8c78ead9e773b1ed/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/8058e20b98ea38e498ea8d0f5c9207fb/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/eced058f7d21ba07974c0285e64dfbe9/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/abiamarulloh/.gradle/caches/transforms-3/71425a89cf0160c60d9ca8b2dfcc26f0/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/6f1b3d4207e545425d02781b63ce0ab1/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.2.0] /Users/abiamarulloh/.gradle/caches/transforms-3/99c3109afc6123ae71116772f75c17af/transformed/sqlite-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/21b658681001e8ab145aa6478e9b4d03/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/f9a707931bd4bdcb31a52bbcda887c3d/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/4d017e3080d6013114aa338961ffe519/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:expo-manifests] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-manifests/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:expo-json-utils] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-json-utils/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:expo-updates-interface] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-updates-interface/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/89af07dd95ca0442c25909f3bbfd5d79/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/7ee584f7199fcf7c173d84c0885cc23a/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/c71f29e3a5ffa5e751418253316cdea0/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/abiamarulloh/.gradle/caches/transforms-3/2684e596efad9cc8f9827ec319d3b225/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/abiamarulloh/.gradle/caches/transforms-3/2684e596efad9cc8f9827ec319d3b225/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+MERGED from [:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-67
+MERGED from [:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from [:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:5-33:19
+MERGED from [:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:5-33:19
+MERGED from [:expo-modules-core] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-13:19
+MERGED from [:expo-modules-core] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-13:19
+MERGED from [com.facebook.react:react-native:0.68.2] /Users/abiamarulloh/.gradle/caches/transforms-3/24cd5fd027c46bc03bb245cae712fd6b/transformed/jetified-react-native-0.68.2/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.68.2] /Users/abiamarulloh/.gradle/caches/transforms-3/24cd5fd027c46bc03bb245cae712fd6b/transformed/jetified-react-native-0.68.2/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/abiamarulloh/.gradle/caches/transforms-3/5a6c0d3c72f5fc830c258a7bc8785cf6/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/abiamarulloh/.gradle/caches/transforms-3/5a6c0d3c72f5fc830c258a7bc8785cf6/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/6db4634c87fcdb9582201d04ec4c4546/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/6db4634c87fcdb9582201d04ec4c4546/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.room:room-runtime:2.4.2] /Users/abiamarulloh/.gradle/caches/transforms-3/1a26ce9aa67437830692451303459502/transformed/room-runtime-2.4.2/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.4.2] /Users/abiamarulloh/.gradle/caches/transforms-3/1a26ce9aa67437830692451303459502/transformed/room-runtime-2.4.2/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.core:core:1.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/19154d755f5105d317997b390cdca45b/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/19154d755f5105d317997b390cdca45b/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/abiamarulloh/.gradle/caches/transforms-3/544ec4b814a4e1fe8c78ead9e773b1ed/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/abiamarulloh/.gradle/caches/transforms-3/544ec4b814a4e1fe8c78ead9e773b1ed/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/7ee584f7199fcf7c173d84c0885cc23a/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/7ee584f7199fcf7c173d84c0885cc23a/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/19154d755f5105d317997b390cdca45b/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/debug/AndroidManifest.xml:10:9-48
+	android:roundIcon
+		ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/debug/AndroidManifest.xml:9:9-29
+	android:icon
+		ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/debug/AndroidManifest.xml:8:9-44
+	android:name
+		ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.reduxapp.MainActivity
+ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:13:7-24:18
+	android:label
+		ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:launchMode
+		ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:17:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:exported
+		ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:19:9-32
+	android:configChanges
+		ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:16:9-118
+	android:name
+		ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:20:9-23:25
+action#android.intent.action.MAIN
+ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:21:13-65
+	android:name
+		ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:21:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:22:13-73
+	android:name
+		ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml:22:23-70
+uses-sdk
+INJECTED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/abiamarulloh/.gradle/caches/transforms-3/2684e596efad9cc8f9827ec319d3b225/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/abiamarulloh/.gradle/caches/transforms-3/2684e596efad9cc8f9827ec319d3b225/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/abiamarulloh/.gradle/caches/transforms-3/aab8def1b1b18d2a733bfdac85642851/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/abiamarulloh/.gradle/caches/transforms-3/aab8def1b1b18d2a733bfdac85642851/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/abiamarulloh/.gradle/caches/transforms-3/2d3c34dac3b103da42de785587616043/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/abiamarulloh/.gradle/caches/transforms-3/2d3c34dac3b103da42de785587616043/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-masked-view_masked-view] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/@react-native-masked-view/masked-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-masked-view_masked-view] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/@react-native-masked-view/masked-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-application] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-application/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-application] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-application/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-constants] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-constants/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-constants] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-constants/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-updates] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-updates/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-updates] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-updates/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-eas-client] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-eas-client/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-eas-client] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-eas-client/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-error-recovery] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-error-recovery/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-error-recovery] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-error-recovery/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:expo-font] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-font/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-font] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-font/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-keep-awake] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-keep-awake/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-keep-awake] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-keep-awake/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-modules-core] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-modules-core] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.68.2] /Users/abiamarulloh/.gradle/caches/transforms-3/24cd5fd027c46bc03bb245cae712fd6b/transformed/jetified-react-native-0.68.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.68.2] /Users/abiamarulloh/.gradle/caches/transforms-3/24cd5fd027c46bc03bb245cae712fd6b/transformed/jetified-react-native-0.68.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/65b897271fd0046515afb974faf95040/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/65b897271fd0046515afb974faf95040/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/0b47447b0847488c70d49e6a958690e4/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/0b47447b0847488c70d49e6a958690e4/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/8fee5c244deee2c31466ae0b8ddd134a/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/8fee5c244deee2c31466ae0b8ddd134a/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r250230] /Users/abiamarulloh/.gradle/caches/transforms-3/1cfd1051e1fe6dcb6c4adf5d6a4e2066/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r250230] /Users/abiamarulloh/.gradle/caches/transforms-3/1cfd1051e1fe6dcb6c4adf5d6a4e2066/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/react-native-reanimated/android/build/.transforms/e0fd2e21f7e51198df1036bd26872381/transformed/jetified-react-native-reanimated-68-jsc/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/react-native-reanimated/android/build/.transforms/e0fd2e21f7e51198df1036bd26872381/transformed/jetified-react-native-reanimated-68-jsc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/2c07d5723d546c898272cb3c278713a6/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/2c07d5723d546c898272cb3c278713a6/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/ac6d4978f5d9543bb1fc1debecea1dd0/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/ac6d4978f5d9543bb1fc1debecea1dd0/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/bd68021cc0417e12ff90be83dd9ac2dc/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/bd68021cc0417e12ff90be83dd9ac2dc/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/7a94fe55ff57afa3d1faac6519c49e19/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/7a94fe55ff57afa3d1faac6519c49e19/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/abiamarulloh/.gradle/caches/transforms-3/5fb96044047bd78bad711127c6052889/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/abiamarulloh/.gradle/caches/transforms-3/5fb96044047bd78bad711127c6052889/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/f508254b7bcca1ca3de08b83f68f2fe1/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/f508254b7bcca1ca3de08b83f68f2fe1/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/8182a7b93be245f52773088a43d4842d/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/8182a7b93be245f52773088a43d4842d/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/1fd0e1f4fd8e31c8bcc34c817bc8aa9b/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/1fd0e1f4fd8e31c8bcc34c817bc8aa9b/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/7c336aecaeb4bc8a19044c36d3aeaa5d/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/7c336aecaeb4bc8a19044c36d3aeaa5d/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/0c3ff7eb95d79f212e1e50ed48779276/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/0c3ff7eb95d79f212e1e50ed48779276/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/abiamarulloh/.gradle/caches/transforms-3/5a6c0d3c72f5fc830c258a7bc8785cf6/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/abiamarulloh/.gradle/caches/transforms-3/5a6c0d3c72f5fc830c258a7bc8785cf6/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/9e703eebd815f484b6200348d75ef414/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/9e703eebd815f484b6200348d75ef414/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/6e86119b20885733e18d998b8e06a69a/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/6e86119b20885733e18d998b8e06a69a/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/8e8026ff74f26f813ddc11a9f55db0ca/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/8e8026ff74f26f813ddc11a9f55db0ca/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/4805685529a3c9b9016a5c52847b671a/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/4805685529a3c9b9016a5c52847b671a/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-structured-headers] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-structured-headers/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-structured-headers] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-structured-headers/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/6db4634c87fcdb9582201d04ec4c4546/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/6db4634c87fcdb9582201d04ec4c4546/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/abiamarulloh/.gradle/caches/transforms-3/8c83eeed436f1237a223ab73bf0b1dfc/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/abiamarulloh/.gradle/caches/transforms-3/8c83eeed436f1237a223ab73bf0b1dfc/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.4.2] /Users/abiamarulloh/.gradle/caches/transforms-3/1a26ce9aa67437830692451303459502/transformed/room-runtime-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.4.2] /Users/abiamarulloh/.gradle/caches/transforms-3/1a26ce9aa67437830692451303459502/transformed/room-runtime-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /Users/abiamarulloh/.gradle/caches/transforms-3/35141156d1f148c240a52764043cc8ab/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /Users/abiamarulloh/.gradle/caches/transforms-3/35141156d1f148c240a52764043cc8ab/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/f2d2419e40a17d151ba4d882c597e887/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/f2d2419e40a17d151ba4d882c597e887/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/8575840cc21c4297a99db65c59f9d637/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/8575840cc21c4297a99db65c59f9d637/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/6eb12a458623e59b3b2c8565321db86b/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/6eb12a458623e59b3b2c8565321db86b/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/abiamarulloh/.gradle/caches/transforms-3/67b325fc3792e3055ab62e09cded431b/transformed/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/abiamarulloh/.gradle/caches/transforms-3/67b325fc3792e3055ab62e09cded431b/transformed/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/8b4b34e99eac5b45a8012460b46b560d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/8b4b34e99eac5b45a8012460b46b560d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/969fd25aed478969e077398459f16fc6/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/969fd25aed478969e077398459f16fc6/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/49bb89a6f9269e9654d2f23512b6a255/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/49bb89a6f9269e9654d2f23512b6a255/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/a08d3a7f794f079a4a7824d73e6b50cd/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/a08d3a7f794f079a4a7824d73e6b50cd/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/134ef1893fac49e0605e88d541286c8e/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/134ef1893fac49e0605e88d541286c8e/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/abiamarulloh/.gradle/caches/transforms-3/5b2f02c135d59a624d1d6aab9d9c1ab4/transformed/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/abiamarulloh/.gradle/caches/transforms-3/5b2f02c135d59a624d1d6aab9d9c1ab4/transformed/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/6f32b51d5ec336e97b91cb9bbd1a9795/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/6f32b51d5ec336e97b91cb9bbd1a9795/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.2.3] /Users/abiamarulloh/.gradle/caches/transforms-3/fc36c76546d565e4350f5afef39c2c80/transformed/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/abiamarulloh/.gradle/caches/transforms-3/fc36c76546d565e4350f5afef39c2c80/transformed/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/008b77477538262c1ca619808f32b732/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/008b77477538262c1ca619808f32b732/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/abiamarulloh/.gradle/caches/transforms-3/4a7ecb343a790aae52f3840b168825fe/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/abiamarulloh/.gradle/caches/transforms-3/4a7ecb343a790aae52f3840b168825fe/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/f006a8ceb6a9aa9cca69c8b4b44b6c76/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/f006a8ceb6a9aa9cca69c8b4b44b6c76/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/773143d68b5f8eaf39600ad3037c5c7c/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/773143d68b5f8eaf39600ad3037c5c7c/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/6447d427f003d53bf1ad3a37be449239/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/6447d427f003d53bf1ad3a37be449239/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/e4f53d7ec0f2b8d7fa1afe0a8891baef/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/e4f53d7ec0f2b8d7fa1afe0a8891baef/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/3b4ae4ad1a822caad1b28895caaa1be3/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/3b4ae4ad1a822caad1b28895caaa1be3/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/abiamarulloh/.gradle/caches/transforms-3/1f370a7bc7606a382637d9aec5304eac/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/abiamarulloh/.gradle/caches/transforms-3/1f370a7bc7606a382637d9aec5304eac/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/8e5f6e4d85b99019b20fc7f4241ec5a8/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/8e5f6e4d85b99019b20fc7f4241ec5a8/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/cd069552264104ae2f6f2a077ae91240/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/cd069552264104ae2f6f2a077ae91240/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/c873eb8429baabbea79c078f8e318afc/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/c873eb8429baabbea79c078f8e318afc/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/5bb0a0959e40b159d82fb6f5df2e0cc5/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/5bb0a0959e40b159d82fb6f5df2e0cc5/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/9663488c6aedf3c8f0e72a7e0a25efd5/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/9663488c6aedf3c8f0e72a7e0a25efd5/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/19154d755f5105d317997b390cdca45b/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/19154d755f5105d317997b390cdca45b/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/abiamarulloh/.gradle/caches/transforms-3/9ac84ca1d4d8731db19639c0e0f34a9b/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/abiamarulloh/.gradle/caches/transforms-3/9ac84ca1d4d8731db19639c0e0f34a9b/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/abiamarulloh/.gradle/caches/transforms-3/bddf38fa519c8b5fe2e7fc585b0cd8bb/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/abiamarulloh/.gradle/caches/transforms-3/bddf38fa519c8b5fe2e7fc585b0cd8bb/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/ab8f966bcca328c75c026801b759a588/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/ab8f966bcca328c75c026801b759a588/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/abiamarulloh/.gradle/caches/transforms-3/544ec4b814a4e1fe8c78ead9e773b1ed/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/abiamarulloh/.gradle/caches/transforms-3/544ec4b814a4e1fe8c78ead9e773b1ed/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/8058e20b98ea38e498ea8d0f5c9207fb/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/8058e20b98ea38e498ea8d0f5c9207fb/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/eced058f7d21ba07974c0285e64dfbe9/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/eced058f7d21ba07974c0285e64dfbe9/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/abiamarulloh/.gradle/caches/transforms-3/71425a89cf0160c60d9ca8b2dfcc26f0/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/abiamarulloh/.gradle/caches/transforms-3/71425a89cf0160c60d9ca8b2dfcc26f0/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/6f1b3d4207e545425d02781b63ce0ab1/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/6f1b3d4207e545425d02781b63ce0ab1/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] /Users/abiamarulloh/.gradle/caches/transforms-3/99c3109afc6123ae71116772f75c17af/transformed/sqlite-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] /Users/abiamarulloh/.gradle/caches/transforms-3/99c3109afc6123ae71116772f75c17af/transformed/sqlite-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/21b658681001e8ab145aa6478e9b4d03/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/21b658681001e8ab145aa6478e9b4d03/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/f9a707931bd4bdcb31a52bbcda887c3d/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/f9a707931bd4bdcb31a52bbcda887c3d/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/4d017e3080d6013114aa338961ffe519/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/abiamarulloh/.gradle/caches/transforms-3/4d017e3080d6013114aa338961ffe519/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:expo-manifests] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-manifests/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-manifests] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-manifests/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-json-utils] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-json-utils/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-json-utils] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-json-utils/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-updates-interface] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-updates-interface/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-updates-interface] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-updates-interface/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/89af07dd95ca0442c25909f3bbfd5d79/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/abiamarulloh/.gradle/caches/transforms-3/89af07dd95ca0442c25909f3bbfd5d79/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/7ee584f7199fcf7c173d84c0885cc23a/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/7ee584f7199fcf7c173d84c0885cc23a/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/c71f29e3a5ffa5e751418253316cdea0/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/c71f29e3a5ffa5e751418253316cdea0/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/debug/AndroidManifest.xml:5:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/debug/AndroidManifest.xml:11:9-111
+	android:exported
+		ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/debug/AndroidManifest.xml:11:84-108
+	android:name
+		ADDED from /Users/abiamarulloh/MobileApp/reduxappexpo/android/app/src/debug/AndroidManifest.xml:11:19-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/abiamarulloh/.gradle/caches/transforms-3/2684e596efad9cc8f9827ec319d3b225/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/abiamarulloh/.gradle/caches/transforms-3/2684e596efad9cc8f9827ec319d3b225/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:expo-updates] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-updates/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [:expo-updates] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-updates/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from [:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from [:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:22-77
+queries
+ADDED from [:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:5-20:15
+intent#action:name:android.intent.action.OPEN_DOCUMENT_TREE
+ADDED from [:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:9-19:18
+action#android.intent.action.OPEN_DOCUMENT_TREE
+ADDED from [:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-79
+	android:name
+		ADDED from [:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:21-76
+provider#expo.modules.filesystem.FileSystemFileProvider
+ADDED from [:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:9-32:20
+	android:grantUriPermissions
+		ADDED from [:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-47
+	android:authorities
+		ADDED from [:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:13-74
+	android:exported
+		ADDED from [:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:13-37
+	tools:replace
+		ADDED from [:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:13-48
+	android:name
+		ADDED from [:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-74
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-31:70
+	android:resource
+		ADDED from [:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:31:17-67
+	android:name
+		ADDED from [:expo-file-system] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:30:17-67
+meta-data#org.unimodules.core.AppLoader#react-native-headless
+ADDED from [:expo-modules-core] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-12:89
+	android:value
+		ADDED from [:expo-modules-core] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-86
+	android:name
+		ADDED from [:expo-modules-core] /Users/abiamarulloh/MobileApp/reduxappexpo/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-79
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.4.2] /Users/abiamarulloh/.gradle/caches/transforms-3/1a26ce9aa67437830692451303459502/transformed/room-runtime-2.4.2/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.4.2] /Users/abiamarulloh/.gradle/caches/transforms-3/1a26ce9aa67437830692451303459502/transformed/room-runtime-2.4.2/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.4.2] /Users/abiamarulloh/.gradle/caches/transforms-3/1a26ce9aa67437830692451303459502/transformed/room-runtime-2.4.2/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.4.2] /Users/abiamarulloh/.gradle/caches/transforms-3/1a26ce9aa67437830692451303459502/transformed/room-runtime-2.4.2/AndroidManifest.xml:26:13-74
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.android.installreferrer:installreferrer:1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/7ee584f7199fcf7c173d84c0885cc23a/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.android.installreferrer:installreferrer:1.0] /Users/abiamarulloh/.gradle/caches/transforms-3/7ee584f7199fcf7c173d84c0885cc23a/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:22-107
